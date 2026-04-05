@@ -12,7 +12,10 @@
     "an-alternate-animist": {
       "pf2e-homebrew": {
         "featTraits": {
-          "dispersion": "A dispersion effect is immensely taxing to your apparitions and temporarily breaks your bond with them as they disperse. After using a dispersion effect, you can’t Cast or Sustain your apparition spells or vessel spells, use your apparitions’ avatar forms, or use other dispersion effects until you restore your bond by Refocusing or making your daily preparations."
+          "dispersion": {
+            "label": "Dispersion",
+            "description": "A dispersion effect is immensely taxing to your apparitions and temporarily breaks your bond with them as they disperse. After using a dispersion effect, you can’t Cast or Sustain your apparition spells or vessel spells, use your apparitions’ avatar forms, or use other dispersion effects until you restore your bond by Refocusing or making your daily preparations."
+          }
         },
         "spellTraits": {
           "": ""
@@ -31,7 +34,7 @@
     {
       "name": "an-alternate-animist",
       "label": "An Alternate Animist",
-      "path": "packs/",
+      "path": "packs/an-alternate-animist",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
