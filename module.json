@@ -1,6 +1,6 @@
 {
-  "id": "",
-  "title": "",
+  "id": "an-alternate-animist",
+  "title": "An Alternate Animist",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -9,10 +9,10 @@
     "maximum": "13"
   },
   "flags": {
-    "": {
+    "an-alternate-animist": {
       "pf2e-homebrew": {
         "featTraits": {
-          "": ""
+          "dispersion": "A dispersion effect is immensely taxing to your apparitions and temporarily breaks your bond with them as they disperse. After using a dispersion effect, you can’t Cast or Sustain your apparition spells or vessel spells, use your apparitions’ avatar forms, or use other dispersion effects until you restore your bond by Refocusing or making your daily preparations."
         },
         "spellTraits": {
           "": ""
@@ -20,7 +20,7 @@
       }
     }
   },
-  "description": "",
+  "description": "An alternate take on the Animist class for Pathfinder Second Edition, focusing on streamlining the class's spellcasting and apparitions.",
   "authors": [
     {
       "name": "Teridax68",
@@ -29,8 +29,8 @@
   ],
   "packs": [
     {
-      "name": "",
-      "label": "",
+      "name": "an-alternate-animist",
+      "label": "An Alternate Animist",
       "path": "packs/",
       "type": "Item",
       "system": "pf2e",
@@ -44,5 +44,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": ""
+  "readme": "https://homebrewery.naturalcrit.com/share/TRTT-h5-y-tI"
 }
